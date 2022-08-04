@@ -82,6 +82,7 @@ public class ArrayList1 {
         for (Student x:students) {
             if((x.city.equalsIgnoreCase("CTC")) && (x.age>10 && x.age<18)){
                 System.out.println(x);
+
             }
         }
 

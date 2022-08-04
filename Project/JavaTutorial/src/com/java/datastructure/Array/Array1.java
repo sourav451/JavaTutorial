@@ -21,6 +21,7 @@ public class Array1 {
 
         for (int i = 0; i < 10; i++) {
             System.out.print(numbers[i]+"\t");
+            System.out.println();
         }
     }
 }
